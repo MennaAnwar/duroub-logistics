@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/duroub-logistics/static/css/main.737d9a91.css",
+    "main.js": "/duroub-logistics/static/js/main.75180852.js",
+    "static/js/453.4461476e.chunk.js": "/duroub-logistics/static/js/453.4461476e.chunk.js",
+    "index.html": "/duroub-logistics/index.html",
+    "main.737d9a91.css.map": "/duroub-logistics/static/css/main.737d9a91.css.map",
+    "main.75180852.js.map": "/duroub-logistics/static/js/main.75180852.js.map",
+    "453.4461476e.chunk.js.map": "/duroub-logistics/static/js/453.4461476e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737d9a91.css",
+    "static/js/main.75180852.js"
+  ]
+}
