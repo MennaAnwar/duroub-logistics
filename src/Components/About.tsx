@@ -3,7 +3,6 @@ import React from "react";
 const About = () => {
   return (
     <>
-      {" "}
       <div className="flex overflow-hidden relative flex-col items-start self-end px-9 pb-11 mt-11 mr-9 aspect-square stroke-[2.05px] stroke-blue-300 w-[72px] max-md:pl-5 max-md:mt-10 max-md:mr-2.5">
         <img
           loading="lazy"

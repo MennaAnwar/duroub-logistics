@@ -2,7 +2,7 @@ import React from "react";
 
 const Regions = () => {
   return (
-    <div className="bg-[#093fa3] flex flex-col justify-center mt-0 w-full text-7xl text-white max-md:max-w-full max-md:text-4xl">
+    <div className="bg-gradient-to-l  to-[#fff] bg-[#093fa3] flex flex-col justify-center mt-0 w-full text-7xl text-white max-md:max-w-full max-md:text-4xl">
       <div className="flex flex-col justify-center w-full max-md:max-w-full max-md:text-4xl">
         <div className="flex flex-col justify-center w-full max-md:max-w-full max-md:text-4xl">
           <div className="flex overflow-hidden relative flex-col justify-center items-center px-16 py-20 min-h-[1540px] max-md:px-5 max-md:max-w-full max-md:text-4xl">
