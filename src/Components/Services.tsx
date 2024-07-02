@@ -27,33 +27,21 @@ const Services = () => {
           <div className="grow px-10 pt-96 pb-10 text-4xl text-white rounded-2xl bg-stone-950 leading-[50px] w-fit max-md:px-5 max-md:pt-10 max-md:max-w-full">
             Transportation, distribution <span className="">&</span> last mile
           </div>
-          <div className="flex z-10 flex-col justify-center items-start self-end px-9 py-5 mt-10 border-2 border-blue-300 border-solid stroke-[2.371px] stroke-blue-300 max-md:px-5 max-md:mt-10">
-            <div className="shrink-0 bg-blue-300 rounded-3xl h-[43px]" />
-          </div>
         </div>
         <div className="flex gap-1.5 max-md:flex-wrap max-md:max-w-full">
           <div className="grow px-10 pt-96 pb-10 text-4xl text-white rounded-2xl bg-stone-950 leading-[50px] w-fit max-md:px-5 max-md:pt-10 max-md:max-w-full">
             Warehousing multi temperature <span className="">(</span>25C to ...
-          </div>
-          <div className="flex z-10 flex-col justify-center self-end px-8 py-5 mt-10 border-2 border-blue-300 border-solid stroke-[2.371px] stroke-blue-300 max-md:px-5 max-md:mt-10">
-            <div className="shrink-0 bg-blue-300 rounded-3xl h-[43px]" />
           </div>
         </div>
         <div className="flex gap-1.5 max-md:flex-wrap max-md:max-w-full">
           <div className="grow px-10 pt-96 pb-10 text-4xl text-white rounded-2xl bg-stone-950 leading-[50px] w-fit max-md:px-5 max-md:pt-10 max-md:max-w-full">
             Cross border transport
           </div>
-          <div className="flex z-10 flex-col justify-center items-start self-end px-9 py-5 mt-10 border-2 border-blue-300 border-solid stroke-[2.371px] stroke-blue-300 max-md:px-5 max-md:mt-10">
-            <div className="shrink-0 bg-blue-300 rounded-3xl h-[43px]" />
-          </div>
         </div>
         <div className="flex z-10 gap-1.5 max-md:flex-wrap max-md:max-w-full">
           <div className="grow px-10 pt-96 pb-10 text-4xl text-white rounded-2xl bg-stone-950 leading-[50px] w-fit max-md:px-5 max-md:pt-10 max-md:max-w-full">
             <span className="">4</span>PL <span className="">&</span> Control
             tower
-          </div>
-          <div className="flex z-10 flex-col justify-center self-end px-8 py-5 mt-10 border-2 border-blue-300 border-solid stroke-[2.371px] stroke-blue-300 max-md:px-5 max-md:mt-10">
-            <div className="shrink-0 bg-blue-300 rounded-3xl h-[43px]" />
           </div>
         </div>
       </div>
